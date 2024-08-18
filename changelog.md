@@ -1,25 +1,25 @@
 # 0.1.0
 - Pre-release
 - Added B9 tank types for stock propellants and a variety of Community Resource Pack resources intended to be used throughout the Immersive Chemicals mod suite:
- - Stock resources:
-  - LiquidFuel
-  - Oxidizer
-  - MonoPropellant
-  - XenonGas
- - Storable chemicals:
-  - LqdAmmonia
-  - LqdCO2
-  - NTO
-  - Hydrazine
-  - Kerosene
-  - Pentaborane
-  - Water
- - Cryogenic chemicals:
-  - LqdCO
-  - Diborane
-  - LqdFluorine
-  - LqdHydrogen
-  - LqdMethane
-  - LqdNitrogen
-  - LqdOxygen
+  - Stock resources:
+    - LiquidFuel
+    - Oxidizer
+    - MonoPropellant
+    - XenonGas
+  - Storable chemicals:
+    - LqdAmmonia
+    - LqdCO2
+    - NTO
+    - Hydrazine
+    - Kerosene
+    - Pentaborane
+    - Water
+  - Cryogenic chemicals:
+    - LqdCO
+    - Diborane
+    - LqdFluorine
+    - LqdHydrogen
+    - LqdMethane
+    - LqdNitrogen
+    - LqdOxygen
 - Added CryoTanks boiloff configs for applicable B9 tank types:
