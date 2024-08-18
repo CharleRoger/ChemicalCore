@@ -6,7 +6,7 @@ Configuration definitions used throughout the Immersive Chemicals suite of mods.
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
 ### Supported
-- [CryoTanks](https://github.com/post-kerbin-mining-corporation/CryoTanks) (for boiloff simulation)
+- [Cryogenic Tanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks) (for boiloff simulation)
 
 ## License
 Distributed under the GNU General Public License.
