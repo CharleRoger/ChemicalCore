@@ -1,0 +1,27 @@
+{
+	"NAME":"Immersive Chemical Core",
+	"DOWNLOAD":
+	"https://github.com/CharleRoger/ImmersiveChemicalCore/releases",
+	"URL":
+	"https://raw.githubusercontent.com/CharleRoger/ImmersiveChemicalCore/main/GameData/ImmersiveChemicalCore/Versioning/ImmersiveChemicalCore.version",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/CharleRoger/ImmersiveChemicalCore/main/README.md",
+	"GITHUB":
+	{
+		"USERNAME":"CharleRoger",
+		"REPOSITORY":"https://github.com/CharleRoger/ImmersiveChemicalCore",
+		"ALLOW_PRE_RELEASE":true
+	},
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":12,
+		"PATCH":5
+	}
+}
