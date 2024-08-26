@@ -1,3 +1,6 @@
+# 0.2.0
+- Add CryoTanks flagging system to add generic boiloff configs to flagged parts
+- Add fuel tank switcher title
 # 0.1.0
 - Pre-release
 - Added B9 tank types for stock propellants and a variety of Community Resource Pack resources intended to be used throughout the Immersive Chemicals mod suite:
