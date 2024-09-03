@@ -1,3 +1,8 @@
+# 0.3.0
+- Added HTP tank definition
+- Balanced HTP cost to a more reasonable 0.2 per unit (vs. original CRP 2.1465!?)
+- Added common resource colours to be used in part switches
+- Added auto-computing of tank masses using a formula back-derived from CryoTanks definitions, keeps everything consistent and makes adding new resources simpler
 # 0.2.0
 - Add CryoTanks flagging system to add generic boiloff configs to flagged parts
 - Add fuel tank switcher title
