@@ -1,3 +1,6 @@
+# 0.3.1
+- Readded tank definitions for stock liquids (LiquidFuel, Oxidizer and MonoPropellant) for better control of tank switching
+- Fixed units-per-volume in B9 tank types
 # 0.3.0
 - Added HTP tank definition
 - Balanced HTP cost to a more reasonable 0.2 per unit (vs. original CRP 2.1465!?)
