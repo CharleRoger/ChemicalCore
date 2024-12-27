@@ -1,3 +1,5 @@
+# 0.4.0
+- Renamed from "Immersive Chemical Core" to "Chemical Core"
 # 0.3.1
 - Readded tank definitions for stock liquids (LiquidFuel, Oxidizer and MonoPropellant) for better control of tank switching
 - Fixed units-per-volume in B9 tank types
@@ -11,7 +13,7 @@
 - Add fuel tank switcher title
 # 0.1.0
 - Pre-release
-- Added B9 tank types for stock propellants and a variety of Community Resource Pack resources intended to be used throughout the Immersive Chemicals mod suite:
+- Added B9 tank types for stock propellants and a variety of Community Resource Pack resources intended to be used throughout the Chemical Technologies mod suite:
   - Stock resources:
     - LiquidFuel
     - Oxidizer

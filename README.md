@@ -1,5 +1,5 @@
-# Immersive Chemical Core
-Configuration definitions used throughout the Immersive Chemicals suite of mods.
+# Chemical Core
+Configuration definitions used throughout the Chemical Technologies suite of mods.
 
 ## Dependencies
 ### Required
