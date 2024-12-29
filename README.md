@@ -1,5 +1,7 @@
 # Chemical Core
-Configuration definitions used throughout the Chemical Technologies suite of mods.
+Configuration definitions used throughout the Chemical Technologies suite of mods:
+- [Chemical Storage](https://github.com/CharleRoger/ChemicalStorage)
+- [Chemical Propulsion](https://github.com/CharleRoger/ChemicalPropulsion)
 
 ## Dependencies
 ### Required
