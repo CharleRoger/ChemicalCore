@@ -1,3 +1,7 @@
+# 0.4.1
+- Added N2F4
+- Added "Liquid" to cryogenic resource names
+- Added resource icon assets
 # 0.4.0
 - Renamed from "Immersive Chemical Core" to "Chemical Core"
 # 0.3.1
