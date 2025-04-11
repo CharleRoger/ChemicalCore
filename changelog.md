@@ -1,3 +1,7 @@
+# 0.5.0
+- Removed stock resource B9 tank types
+- Rebalanced HTP cost to 0.5 per unit
+- Minor localization tweaks
 # 0.4.1
 - Added N2F4
 - Added "Liquid" to cryogenic resource names
