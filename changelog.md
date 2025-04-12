@@ -1,5 +1,4 @@
-# 0.5.0
-- Removed stock resource B9 tank types
+# 0.4.2
 - Rebalanced HTP cost to 0.5 per unit
 - Minor localization tweaks
 # 0.4.1
