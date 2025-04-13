@@ -1,4 +1,5 @@
-# 0.4.2
+# 0.5.0
+- Added part upgrades for chemical resources (many of which were split from Chemical Propulsion 0.5.1)
 - Rebalanced HTP cost to 0.5 per unit
 - Minor localization tweaks
 # 0.4.1
