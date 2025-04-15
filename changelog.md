@@ -1,5 +1,6 @@
 # 0.5.0
 - Added part upgrades for chemical resources (many of which were split from Chemical Propulsion 0.5.1)
+- Added TEATEB (for Chemical Propulsion kerolox ignition)
 - Rebalanced HTP cost to 0.5 per unit
 - Minor localization tweaks
 # 0.4.1
