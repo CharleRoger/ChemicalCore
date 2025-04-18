@@ -1,3 +1,7 @@
+# 1.0.0
+- Release
+- Added HTPB and PBAN
+- Changed TEATEB display name to "TEA-TEB"
 # 0.5.0
 - Added part upgrades for chemical resources (many of which were split from Chemical Propulsion 0.5.1)
 - Added TEATEB (for Chemical Propulsion kerolox ignition)
