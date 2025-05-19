@@ -1,3 +1,6 @@
+# 1.1.0
+- Added Ethanol
+- Changed Kerosene and NTO colours
 # 1.0.0
 - Release
 - Added HTPB and PBAN
