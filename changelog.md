@@ -1,6 +1,7 @@
 # 1.2.0
 - Added IWFNA (Nitric acid)
 - Balanced HTPB and PBAN cost
+- Changed resource colour definitions to use hex codes for modules that can't parse colour names
 # 1.1.0
 - Added Ethanol
 - Changed Kerosene and NTO colours
