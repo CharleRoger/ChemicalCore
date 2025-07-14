@@ -1,3 +1,5 @@
+# 1.3.0
+- Added part upgrade activation system which keeps part upgrades and associated switch subtypes hidden if unused
 # 1.2.0
 - Added IWFNA (Nitric acid)
 - Balanced HTPB and PBAN cost
