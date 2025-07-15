@@ -7,7 +7,7 @@ Configuration definitions used throughout the Chemical Technologies suite of mod
 ## Dependencies
 ### Required
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
-- [B9PartSwitch (2.20.0)](https://github.com/blowfishpro/B9PartSwitch)
+- [B9PartSwitch (2.21.0.1)](https://github.com/KSPModStewards/B9PartSwitch)
 - [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
 ### Supported
 - [Cryogenic Tanks (1.6.6)](https://github.com/post-kerbin-mining-corporation/CryoTanks) (for boiloff simulation)
