@@ -1,7 +1,9 @@
 # 1.3.1
 - Added Aniline
-- Changed HTP part upgrade tech required from General Rocketry to Basic Rocketry
-- Changed NTO part upgrade tech required from Propulsion Systems to Advanced Rocketry
+- Shifted some part upgrades down the tech tree:
+  - HTP: General Rocketry → Basic Rocketry
+  - TEATEB: Advanced Rocketry → General Rocketry
+  - NTO: Propulsion Systems → Advanced Rocketry
 # 1.3.0
 - Added part upgrade activation system which keeps part upgrades and associated switch subtypes hidden if unused
 # 1.2.0
