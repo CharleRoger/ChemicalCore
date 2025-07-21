@@ -1,5 +1,6 @@
 # 1.3.1
 - Changed NTO part upgrade tech required from Propulsion Systems to Advanced Rocketry
+- Added Aniline
 # 1.3.0
 - Added part upgrade activation system which keeps part upgrades and associated switch subtypes hidden if unused
 # 1.2.0
