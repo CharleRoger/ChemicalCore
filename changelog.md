@@ -1,3 +1,5 @@
+# 1.4.1
+- Prevented part upgrade icon dummy parts from appearing in VAB part list in sandbox mode
 # 1.4.0
 - Added Aniline
 - Shifted some part upgrades down the tech tree:
