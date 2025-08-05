@@ -1,6 +1,6 @@
 # 1.4.1
 - Prevented part upgrade icon dummy parts from appearing in VAB part list in sandbox mode
-- Changed Aniline and Nitric acid colours
+- Changed LqdAmmonia, Aniline and Nitric acid colours
 - Changed PBAN part upgrade tech required from Basic Rocketry to Start
 - Fixed N2F4 part upgrade tech tree placement when not using Community Tech Tree
 # 1.4.0
