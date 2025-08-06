@@ -1,4 +1,5 @@
 # 1.4.1
+- Added Simplified Chinese localization (by @Aebestach)
 - Prevented part upgrade icon dummy parts from appearing in VAB part list in sandbox mode
 - Changed LqdAmmonia, Aniline and Nitric acid colours
 - Changed PBAN part upgrade tech required from Basic Rocketry to Start
