@@ -1,3 +1,5 @@
+# 1.4.2
+- Added SystemHeat support for CryoTanks `BOILOFFCONFIG`s
 # 1.4.1
 - Added Simplified Chinese localization (contributed by @Aebestach)
 - Prevented part upgrade icon dummy parts from appearing in VAB part list in sandbox mode
