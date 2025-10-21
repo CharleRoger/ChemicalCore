@@ -13,7 +13,7 @@ Configuration definitions used throughout the Chemical Technologies suite of mod
 ### Recommended
 - [Cryogenic Tanks (1.6.7)](https://github.com/post-kerbin-mining-corporation/CryoTanks) (for boiloff simulation)
 ### Supported
-- [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem) (courtesy of @CessnaSkyhawk)
+- [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem) (courtesy of @Arofire)
 - [System Heat (0.8.2)](https://github.com/post-kerbin-mining-corporation/SystemHeat) (for boiloff simulation)
 
 ## License
