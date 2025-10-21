@@ -1,3 +1,5 @@
+# 1.4.3
+- Added Skyhawk Science System compatibility (contributed by Arofire/@CessnaSkyhawk)
 # 1.4.2.1
 - Improved SystemHeat-CryoTanks patch
 # 1.4.2
