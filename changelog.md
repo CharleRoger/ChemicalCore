@@ -1,3 +1,5 @@
+# 1.4.4
+- Added Russian localization (contributed by @Bimo1D)
 # 1.4.3
 - Added Skyhawk Science System compatibility (contributed by @Arofire)
 # 1.4.2.1
