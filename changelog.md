@@ -1,3 +1,6 @@
+# 1.4.5
+- Added PSPC (Polysulfide propellant composite)
+- Changed PBAN part upgrade tech required from Start to Advanced Rocketry
 # 1.4.4
 - Added Russian localization (contributed by @Bimo1D)
 # 1.4.3
