@@ -1,3 +1,6 @@
+# 1.5.0
+- Added bespoke tech tree nodes for resource part upgrades
+- Moved resource descriptions from Chemical Propulsion to Chemical Core
 # 1.4.5
 - Added PSPC (Polysulfide propellant composite)
 # 1.4.4

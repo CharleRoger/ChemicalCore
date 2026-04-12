@@ -1,20 +1,28 @@
 # Chemical Core
+
 Configuration definitions used throughout the Chemical Technologies suite of mods:
-- [Chemical Storage](https://github.com/CharleRoger/ChemicalStorage)
+
 - [Chemical Propulsion](https://github.com/CharleRoger/ChemicalPropulsion)
-- [Chemical Exotics](https://github.com/CharleRoger/ChemicalExotics)
+- [Chemical Storage](https://github.com/CharleRoger/ChemicalStorage)
 
 ## Dependencies
+
 - [ModuleManager (4.2.3)](https://github.com/sarbian/ModuleManager)
 - [B9PartSwitch (2.21.0.1)](https://github.com/KSPModStewards/B9PartSwitch)
 - [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
+- [Hide Empty Tech Tree Nodes (1.3.2)](https://github.com/Orthethac/HideEmptyTechTreeNodes)
 
 ## Compatibility
+
 ### Recommended
+
 - [Cryogenic Tanks (1.6.7)](https://github.com/post-kerbin-mining-corporation/CryoTanks) (for boiloff simulation)
+
 ### Supported
+
 - [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem) (courtesy of @Arofire)
 - [System Heat (0.8.2)](https://github.com/post-kerbin-mining-corporation/SystemHeat) (for boiloff simulation)
 
 ## License
+
 Distributed under the GNU General Public License.
