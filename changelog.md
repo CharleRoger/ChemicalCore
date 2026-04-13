@@ -1,6 +1,9 @@
 # 1.5.0
 - Added bespoke tech tree nodes for resource part upgrades
 - Added Gradual Progression Tech Tree compatibility
+- Added Probes Before Crew compatibility
+- Added UnKerballed Start compatibility
+- Added SIMPLEX Tech Tree compatibility
 - Moved resource descriptions from Chemical Propulsion to Chemical Core
 # 1.4.5
 - Added PSPC (Polysulfide propellant composite)
