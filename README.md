@@ -27,6 +27,7 @@ Configuration definitions used throughout the Chemical Technologies suite of mod
 - [SIMPLEX Tech Tree (1.40)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
 - [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem) (courtesy of @Arofire)
 - [System Heat (0.8.2)](https://github.com/post-kerbin-mining-corporation/SystemHeat) (for boiloff simulation)
+- [Tech Tree Kompacted (1.6.1)](https://forum.kerbalspaceprogram.com/topic/199096-1123-techtree-kompacted-16-the-rp-1-edition)
 - [TETRIX Tech Tree (2.30)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
 - [UnKerballed Start (1.3.2)](https://github.com/theonegalen/UnKerballedStart)
 
