@@ -1,5 +1,6 @@
 # 1.5.0
 - Added bespoke tech tree nodes for resource part upgrades
+- Added CSI Tech Tree compatibility
 - Added Gradual Progression Tech Tree compatibility
 - Added Probes Before Crew compatibility
 - Added QUARTIX Tech Tree compatibility
