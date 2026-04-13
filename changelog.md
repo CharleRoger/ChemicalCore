@@ -2,6 +2,7 @@
 - Added bespoke tech tree nodes for resource part upgrades
 - Added Gradual Progression Tech Tree compatibility
 - Added Probes Before Crew compatibility
+- Added QUARTIX Tech Tree compatibility
 - Added SIMPLEX Tech Tree compatibility
 - Added TETRIX Tech Tree compatibility
 - Added UnKerballed Start compatibility
