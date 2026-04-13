@@ -20,6 +20,7 @@ Configuration definitions used throughout the Chemical Technologies suite of mod
 
 ### Supported
 
+- [Gradual Progression Tech Tree (0.3.3)](https://github.com/hersfeldtn/GPTT)
 - [Probes Before Crew (3.0.0)](https://forum.kerbalspaceprogram.com/topic/181013-ksp-18-112-probes-before-crew-pbc-version-293)
 - [Skyhawk Science System (1.1.2)](https://github.com/CessnaSkyhawk/SkyhawkScienceSystem) (courtesy of @Arofire)
 - [System Heat (0.8.2)](https://github.com/post-kerbin-mining-corporation/SystemHeat) (for boiloff simulation)
