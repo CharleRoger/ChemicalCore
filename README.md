@@ -23,6 +23,7 @@ Configuration definitions used throughout the Chemical Technologies suite of mod
 - [Community Tech Tree (3.4.5)](https://github.com/post-kerbin-mining-corporation/CommunityTechTree)
 - [CSI Tech Tree (0.5.1)](https://forum.kerbalspaceprogram.com/topic/202292-1122-csi-tech-tree-05-usi-suite-updated)
 - [Gradual Progression Tech Tree (0.3.3)](https://github.com/hersfeldtn/GPTT)
+- [Kiwi Tech Tree (1.4.0)](https://github.com/hemeac/kiwiTechTree)
 - [Probes Before Crew (3.0.0)](https://forum.kerbalspaceprogram.com/topic/181013-ksp-18-112-probes-before-crew-pbc-version-293)
 - [QUARTIX Tech Tree (3.13)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)
 - [SIMPLEX Tech Tree (1.40)](https://forum.kerbalspaceprogram.com/topic/174731-1125-techtrees-quartix-313-tetrix-230-simplex-140)

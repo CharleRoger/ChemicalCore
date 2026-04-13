@@ -2,6 +2,7 @@
 - Added bespoke tech tree nodes for resource part upgrades
 - Added CSI Tech Tree compatibility
 - Added Gradual Progression Tech Tree compatibility
+- Added Kiwi Tech Tree compatibility
 - Added Probes Before Crew compatibility
 - Added QUARTIX Tech Tree compatibility
 - Added SIMPLEX Tech Tree compatibility
