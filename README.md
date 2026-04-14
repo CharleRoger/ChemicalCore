@@ -4,6 +4,7 @@ Configuration definitions used throughout the Chemical Technologies suite of mod
 
 - [Chemical Propulsion](https://github.com/CharleRoger/ChemicalPropulsion)
 - [Chemical Storage](https://github.com/CharleRoger/ChemicalStorage)
+- [Chemical Tech Tree](https://github.com/CharleRoger/ChemicalTechTree)
 
 ## Dependencies
 
