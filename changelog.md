@@ -1,15 +1,6 @@
 # 1.5.0
-- Added bespoke tech tree nodes for resource part upgrades
-- Added CSI Tech Tree compatibility
-- Added Gradual Progression Tech Tree compatibility
-- Added Kiwi Tech Tree compatibility
-- Added Probes Before Crew compatibility
-- Added QUARTIX Tech Tree compatibility
-- Added SIMPLEX Tech Tree compatibility
-- Added Tech Tree Kompacted compatibility
-- Added TETRIX Tech Tree compatibility
-- Added UnKerballed Start compatibility
 - Moved resource descriptions from Chemical Propulsion to Chemical Core
+- Moved part upgrades to Chemical Tech Tree
 # 1.4.5
 - Added PSPC (Polysulfide propellant composite)
 # 1.4.4
