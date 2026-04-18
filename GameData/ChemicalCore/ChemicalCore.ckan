@@ -1,0 +1,14 @@
+identifier: ChemicalCore
+$kref: '#/ckan/github/CharleRoger/ChemicalCore'
+$vref: '#/ckan/ksp-avc'
+---
+identifier: ChemicalCore
+$kref: '#/ckan/spacedock/3865'
+$vref: '#/ckan/ksp-avc'
+depends:
+  - name: ModuleManager
+  - name: B9PartSwitch
+  - name: CommunityResourcePack
+supports:
+  - name: CryoTanks
+  - name: SystemHeat
