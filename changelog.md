@@ -1,6 +1,7 @@
 # 1.5.0
 - Moved resource descriptions from Chemical Propulsion to Chemical Core
 - Moved part upgrades to Chemical Tech Tree
+- Added descriptions for LqdCO, LqdCO2, LqdNitrogen and Water
 # 1.4.5
 - Added PSPC (Polysulfide propellant composite)
 # 1.4.4
