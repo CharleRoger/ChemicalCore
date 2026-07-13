@@ -1,3 +1,5 @@
+# 1.5.1
+- Added configurable parameters for tank density formula
 # 1.5.0
 - Moved resource descriptions from Chemical Propulsion to Chemical Core
 - Moved part upgrades to Chemical Tech Tree
