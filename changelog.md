@@ -1,5 +1,7 @@
+# 1.5.2.1
+- Fixed rounding of values in tank density formula
 # 1.5.2
-- Minor change to patch ordering for tank mass computation
+- Minor change to patch ordering for tank density computation
 # 1.5.1
 - Added configurable parameters for tank density formula
 - Added B9 tank types for HTPB, PBAN and PSPC
